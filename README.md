@@ -41,4 +41,4 @@ To solve these problems, this project utilizes fundamental **Data Structures** t
 ## 💻 Tech Stack
 * **Language:** Java
 * **Concepts:** Data Structures (CSC248), Object-Oriented Programming (OOP)
-* **Tools:** NetBeans / IntelliJ / Eclipse (Pilih satu yang awak guna)
+* **Tools:** IntelliJ
